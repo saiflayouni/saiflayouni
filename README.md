@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saif eddine LAYOUNI</h1>
-<h3 align="center">I am a passionate data science, AI, machine learning enthusiast and mobile development practitioner constantly enhancing my technical and soft skills through online learning and hands-on projects. Seeking a summer internship opportunity Or Graduation internship opportunity, either remote or in-person, in any of these fields.</h3>
+<h3 align="center">I am a passionate data science, AI, machine learning enthusiast and mobile development practitioner constantly enhancing my technical and soft skills through online learning and hands-on projects. Seeking a job opportunity , either remote or in-person, in any of these fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiflayouni&label=Profile%20views&color=0e75b6&style=flat" alt="saiflayouni" /> </p>
 
