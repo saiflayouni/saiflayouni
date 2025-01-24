@@ -1,5 +1,4 @@
-<!--👋-Banner-->
-<center><img alt="Header" src="https://drive.google.com/file/d/1ZNPuqGZHVWvYqE78h2aPIuhhzj1Y8ydm/view?usp=sharing"/></center>
+<!--👋-Banner--> <center><img alt="Header" src="https://drive.google.com/uc?export=view&id=1ZNPuqGZHVWvYqE78h2aPIuhhzj1Y8ydm"/></center
 
 # 🧑🏻‍💻 Saif Eddine Layouni
 
